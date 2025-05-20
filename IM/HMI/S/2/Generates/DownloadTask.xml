@@ -2,18 +2,18 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="14.0.0.0"
-    CreationTime="2025-05-15 09:53:00 (UTC)"
+    CreationTime="2025-05-20 08:49:20 (UTC)"
     Runtime="SMART"
     RtProjectName="Akroh-Naaimachine V1.0.HMI_1[KTP700 Basic PN]"
     RtProjectFolderName="Akroh-Naaimachine V1.0.HMI_1[KTP700 Basic PN]"
     DeviceType="KTP700_Basic"
     DisplayOrientation="0"
-    RTReleaseNo="14.0.0.0"
-    ImageReleaseNo="14.0.0.0"
+    RTReleaseNo="14.0.0.3"
+    ImageReleaseNo="14.0.0.3"
     RTCV="14.0.0.0"
     PRCV="14.0.0.0"
-    FirmwareFileName=""
-    RuntimeFileName=""
+    FirmwareFileName="KTP700\14.0.0.3\KTP700_V14_00_00_03.fwf"
+    RuntimeFileName="KTP700\14.0.0.3\KTP700_V14_00_00_03.fwf"
     RuntimeAddonFolderName="KTP700" />
   <FullDownload>pdata.srt</FullDownload>
   <FullDownload
